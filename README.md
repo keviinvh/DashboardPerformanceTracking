@@ -27,7 +27,7 @@ Moving on to the Expense sheet, I duplicated the income sheet and changed the in
 
 Working off of the expenses sheet, I added a tax write-off sheet to the workbook. This sheet uses a pivot table on the entirety of the expense sheet, filters on the year, and where the tax write-off column is set to yes. With those qualifications, the pivot tables display the notes and sum of the expense. I have added a button with a macro attached to refresh the pivot table for the family member because he is not too familiar with Excel. The sheet is shown below:
 
-![Tax Write-Offs Sheet](Photos/Tax_Write_Offs.png)
+![Tax Write-Offs Sheet](Photos/Tax_Write_offs.png)
 
 Moving on to the dashboard, I begin by making the first column the month with data validation of all 12 months in a drop-down list. I did a similar thing with the next column with a few years in the list. I move on to making the saving goals by adding a header in a column. I add the family member's savings goals and perform a sumifs formula to pull data that is in the selected year at the top of the sheet where the categories match the listed saving goals. I added conditional formatting to visualize the goals with the goal value set to what I was told the goals were by the family member. 
 
