@@ -1,13 +1,11 @@
-# HoK_Excel
-
-This showcases my Excel projects. To open the projects, go to the projects folder inside of this repository, download the Excel project, and open it in Microsoft Excel.
-
-# Personal Project, Data Tracking & Dashboard: Financial Tracking Tool  
+# Intro
 
 This was a personal project I took on from a family member. He had been manually tracking his financials and wanted to be able to see his weekly and monthly summaries 
-while at the same time tracking and inputting his income and expenses.
+while at the same time tracking and inputting his income and expenses. The categories for income and expenses were given to me by the family member, so that is what is displayed and those are the options.
 
-The categories for income and expenses were given to me by the family member, so that is what is displayed and those are the options.
+To open the projects, go to the projects folder inside of this repository, download the Excel project, and open it in Microsoft Excel.
+
+# Personal Project, Data Tracking & Dashboard: Financial Tracking Tool  
 
 I will break the project down step-by-step.
 
